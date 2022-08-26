@@ -1,4 +1,4 @@
-# 1st Tailwind Project
+# 3rd Tailwind Project
 This one is a Rode clone which is made using Tailwind CSS.
 
 > Great project to practice Tailwind CSS.
